@@ -9,6 +9,6 @@
 ## [Tribunal de Contas do Estado do Piauí ](https://sistemas.tce.pi.gov.br/muralic/)
 
 > 1. Acesso aos parametros de pesquisa via script.
-2. Scraping das licitações de acordo com os parametros inseridos.
+> 2. Scraping das licitações de acordo com os parametros inseridos.
 
 ----

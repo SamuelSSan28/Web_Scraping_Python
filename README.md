@@ -1,4 +1,4 @@
-# Adquirindo dados dos sites
+# Adquirindo dados dos sites:
 
 ----
 ## [Tudo Gostoso](https://www.tudogostoso.com.br/receitas)
